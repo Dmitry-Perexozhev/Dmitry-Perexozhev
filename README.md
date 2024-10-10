@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-I am a beginner backend developer. I am looking for a junior frontend developer position or an internship!
+I am a Python backend developer with solid skills in Python, Django, Flask, and experience working with databases and APIs. After completing my courses at Hexlet, I applied these skills to build real-world projects, including a Task Manager and an SEO analysis tool. I am passionate about creating scalable, efficient backend solutions and excited to contribute to dynamic teams. Currently seeking a junior backend developer position or internship to continue honing my expertise while delivering impactful solutions!
 
 *   🌍  I'm based in Sankt-Peterburg
 *   ✉️  You can contact me at [perexozhev99@gmail.com](mailto:perexozhev99@gmail.com)
