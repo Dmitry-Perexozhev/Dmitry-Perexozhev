@@ -6,7 +6,9 @@ Python developer
 
 I am a Python backend developer with 2 years of development experience. Specializes in Django and Flask. I have a large technical background and experience in creating and optimizing complex systems.
 
-*   ✉️  You can contact me at [perexozhevd@mail.ru](mailto:perexozhevd@mail.ru)
+**Contacts:**
+
+- ✉️[perexozhevd@mail.ru](mailto:perexozhevd@mail.ru)
 *  [![Telegram Badge](https://img.shields.io/badge/Telegram-DimaPerexozhev-blue?logo=telegram)](https://t.me/DimaPerexozhev)
 ---
 
@@ -21,12 +23,17 @@ I am a Python backend developer with 2 years of development experience. Speciali
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dmitry-Perexozhev&theme=transparent&mode=weekly&hide_current_streak=true&hide_longest_streak=true&height=200)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dmitry-Perexozhev&theme=transparent&mode=weekly&hide_current_streak=true&hide_longest_streak=true" height="175" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Perexozhev&layout=compact&height=200)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Perexozhev&layout=compact" height="175" />
+</a>
 
 ### 🏆 Codewars:
 ![Codewars](https://www.codewars.com/users/Dmitry-Perexozhev/badges/small)
 
-### My CV
-[Python Backend Developer](https://cv.hexlet.io/ru/resumes/3685)
+### :page_facing_up: CV:
+
+[Python Developer](https://myresume.ru/resume/2Ldak6W4KWk/)
