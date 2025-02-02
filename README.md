@@ -20,5 +20,11 @@ I am a Python backend developer with 2 years of development experience. Speciali
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dmitry-Perexozhev&theme=transparent&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Perexozhev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 Codewars
+![Codewars](https://www.codewars.com/users/Dmitry-Perexozhev/badges/small)
+
 ### My CV
 [Python Backend Developer](https://cv.hexlet.io/ru/resumes/3685)
