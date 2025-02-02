@@ -36,4 +36,4 @@ I am a Python backend developer with 2 years of development experience. Speciali
 
 ### :page_facing_up: CV:
 
-[Python Developer](https://myresume.ru/resume/2Ldak6W4KWk/)
+[Python Developer](https://drive.google.com/file/d/19mDH_0G96qr97til9UatsTtozvxm3baH/view?usp=sharing)
